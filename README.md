@@ -1,3 +1,5 @@
+# To do: Make this better 
+
 - 👋 Hi, I’m @seakeal
 - 👀 I’m interested in full-stack web development.
 - 🌱 I’m currently learning React and Django.
