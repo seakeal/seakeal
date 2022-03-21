@@ -26,7 +26,7 @@ My name is Nicholas, but I'm more commonly known as Nic (in the real world) or S
 - 🧙 Video Games
 - 🍄 Paras
 
-![Where did I put that?](god.webp)
+![Where did I put that?](paras.webp)
   
 ### Contact
 - 📧 Email: nicholasgill.1998@gmail.com
