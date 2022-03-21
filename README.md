@@ -4,7 +4,7 @@ My name is Nicholas, but I'm more commonly known as Nic (in the real world) or S
 
 ### Status
 - Balling
----
+
 ## Code
 ### Languages
 - C++
@@ -18,7 +18,7 @@ My name is Nicholas, but I'm more commonly known as Nic (in the real world) or S
 ### Frameworks
 - Django
 - React
----
+
 ## Other
 ### Interests
 - 🥏 Ultimate
