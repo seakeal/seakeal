@@ -1,6 +1,6 @@
 # HELLO
 
-My name is Nicholas, more commonly known as Nic (in the real world) or Seakeal (online). I am currently working as a full-stack web developer for a staffing agency, but am open to other opportunities.
+My name is Nicholas, more commonly known as Nic (in the real world) or Seakeal (online). I currently work as a full-stack web developer for a staffing agency, but am open to other opportunities.
 
 ## Code
 ### Languages
