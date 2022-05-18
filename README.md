@@ -10,7 +10,6 @@ My name is Nicholas, more commonly known as Nic (in the real world) or Seakeal (
 - Javascript
 - HTML/CSS
 - SQL
-- French
 
 ### Frameworks
 - Django
