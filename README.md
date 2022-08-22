@@ -1,6 +1,6 @@
-# HELLO
+# Hello
 
-My name is Nicholas, more commonly known as Nic (in the real world) or Seakeal (online). I currently work as a full-stack web developer for a staffing agency, but am open to other opportunities.
+My name is Nicholas, more commonly known as Nic (in the real world) or Seakeal (online). I currently work as a software developer at Indiana University.
 
 ## Code
 ### Languages
@@ -11,10 +11,6 @@ My name is Nicholas, more commonly known as Nic (in the real world) or Seakeal (
 - HTML/CSS
 - SQL
 
-### Frameworks
-- Django
-- React
-
 ## Other
 ### Interests
 - 🥏 Ultimate
@@ -22,7 +18,7 @@ My name is Nicholas, more commonly known as Nic (in the real world) or Seakeal (
 - 🧙 Video Games
 - 🍄 Paras
 
-![Where did I put that?](paras.webp)
+![Image Lost](paras.webp)
   
 ### Contact
 - 📧 Email: nicholasgill.1998@gmail.com
