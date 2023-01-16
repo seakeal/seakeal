@@ -1,18 +1,30 @@
-# Hello
+# About Me
 
-My name is Nicholas, more commonly known as Nic (in the real world) or Seakeal (online). I currently work as a software developer at Indiana University.
+My name is Nicholas, but I usually go by Nic (in the real world) or Seakeal (online). I currently work as a software developer at Indiana University.
 
-## Code
-### Languages
-- C++
-- Python
-- PHP
-- Javascript
-- HTML/CSS
-- SQL
+## Digital Skills
+- PeopleSoft
+  - PeopleCode
+- SQL and Database Management
+  - Oracle Database
+  - Microsoft SQL Server
+  - MariaDB
+- Web Design
+  - PHP
+  - Javascript
+  - HTML/CSS
+- Other Proficient Languages
+  - Python
+  - C++
+  - SQR
+  - Bash
+  - Perl
+- Artistic Tools
+  - GIMP
+  - Inkscape
+  - Davinci Resolve
 
-## Other
-### Interests
+## Interests
 - 🥏 Ultimate
 - ✍️ Drawing/Painting/Graphic Design
 - 🧙 Video Games
