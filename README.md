@@ -22,7 +22,7 @@ My name is Nicholas, but I usually go by Nic (in the real world) or Seakeal (onl
 - Artistic Tools
   - GIMP
   - Inkscape
-  - Davinci Resolve
+  - DaVinci Resolve
 
 ## Interests
 - 🥏 Ultimate
