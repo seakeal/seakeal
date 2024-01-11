@@ -20,8 +20,8 @@ My name is Nicholas, but I usually go by Nic (in the real world) or Seakeal (onl
   - Bash
   - Perl
 - Artistic Tools
-  - GIMP
-  - Inkscape
+  - Adobe Photoshop/GIMP
+  - Adobe Illustrator/Inkscape
   - DaVinci Resolve
 
 ## Interests
