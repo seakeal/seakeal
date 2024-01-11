@@ -3,7 +3,7 @@
 My name is Nicholas, but I usually go by Nic (in the real world) or Seakeal (online). I currently work as a software developer at Indiana University.
 
 ## Digital Skills
-- PeopleSoft
+- Oracle PeopleSoft
   - PeopleCode
 - SQL and Database Management
   - Oracle Database
